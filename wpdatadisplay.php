@@ -17,12 +17,12 @@
 
 /**
  * Plugin Name: WPDataDisplay
- * Plugin URI: http://URI_Of_Page_Describing_Plugin_and_Updates
+ * Plugin URI: https://github.com/coletivoEITA/wp_datadisplay
  * Description: This plugin creates a special post type that displays data of custom database tables.
  * Version: 0.0
  * Author: alantygel
- * Author URI: http://URI_Of_The_Plugin_Author
- * License: GPL2
+ * Author URI: https://github.com/alantygel
+ * License: GPL3
  */
 
 include('wpdd_config.php');
