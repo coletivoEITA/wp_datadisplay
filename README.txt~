@@ -16,4 +16,4 @@ How to use:
 1) Create a "main" table in your database with the appropriate prefix (see wpdd_config.php). This table needs one column called ID.
 2) Upload other tables. They must also have a column called ID, which will be associated to the main table.
 3) In the plugin setting, set up the datadisplay title template.
-4) Click on generate posts. For each row on main table, it will create one post (posttype datadisplay). Post title and content will follow the template settings.
+4) Click on generate posts. For each row on main table, it will create one post (posttype datadisplay). Post title and content will follow the template.
