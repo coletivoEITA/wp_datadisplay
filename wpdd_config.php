@@ -1,6 +1,6 @@
 <?php
 
-define('WP_DATADISPLAY_PREFIX', 'datadisplay2_');
+define('WP_DATADISPLAY_PREFIX', 'datadisplay_');
 define('WP_DATADISPLAY_MAIN_TABLE', 'main');
 
 define('WP_DATADISPLAY_SEARCH_DESC', 'Procure o seu município e veja informações sobre saúde:');

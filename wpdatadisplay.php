@@ -287,7 +287,7 @@ function get_tables(){
 function search_data() {
 
 ?>
-	<link rel="stylesheet" type="text/css" href="./wp-content/plugins/wpdatadisplay/style.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="./wp-content/plugins/wp-datadisplay/style.css" media="screen" />
 
 	<h2> <?= WP_DATADISPLAY_SEARCH_DESC ?></h2>
 	<form id=wpdatadisplay-search method=POST>
